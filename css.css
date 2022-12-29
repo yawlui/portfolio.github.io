@@ -1,0 +1,48 @@
+html,body{
+    background-color: white;
+    margin: 0px;
+}
+
+/*----------------sym-block-------------------*/
+
+header{
+    display: block;
+    width: auto;
+    height: 60px;
+}
+
+.sym-block{
+    position: absolute;
+    margin-left: 43%;
+    margin-top: 40px;
+    width: 350px;
+    height: 80px;
+}
+
+/*------------------- sec-1 --------------------*/
+
+.web-detail{
+    position: absolute;
+    align-items: center;
+    margin-left: 12.5%;
+    margin-top: 64px;
+}
+
+.img-detail{
+    height: 800px;
+    width: 1412px;
+}
+
+/*--------------------sec-2-----------------------*/
+
+.sec-2{
+    margin-top: 870px;
+}
+
+.sec2-img{
+    width: 1412px;
+    height: 794px;
+    margin-left: 12.5%;
+}
+
+/*--------------------sec-3------------------------*/
